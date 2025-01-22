@@ -1,4 +1,9 @@
+# Rust
 Cargo.lock
 Cargo.toml
 .idea/
 target/
+
+# Java
+out/
+*.iml
